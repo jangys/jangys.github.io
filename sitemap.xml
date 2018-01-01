@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jangys.github.io/2018/01/02/First-Post/</loc>
+    
+    <lastmod>2018-01-01T16:28:46.675Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jangys.github.io/404.html</loc>
     
     <lastmod>2017-12-31T11:24:30.011Z</lastmod>
@@ -19,20 +26,6 @@
     <loc>http://jangys.github.io/about/index.html</loc>
     
     <lastmod>2017-12-31T11:22:43.741Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jangys.github.io/2017/12/31/first-post/</loc>
-    
-    <lastmod>2017-12-31T09:55:38.704Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jangys.github.io/2017/12/31/hello-world/</loc>
-    
-    <lastmod>2017-12-31T09:35:31.416Z</lastmod>
     
   </url>
   
